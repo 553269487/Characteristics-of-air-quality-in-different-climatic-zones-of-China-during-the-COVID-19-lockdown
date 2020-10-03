@@ -1,0 +1,6 @@
+# def to_percent(temp, position):
+#     return '%1.0f' % (100 * temp) + '%' #
+# plt.gca().yaxis.set_major_formatter(FuncFormatter(to_percent))
+# plt.ylim(-1, 1)
+
+Change yaxix to 100%format
